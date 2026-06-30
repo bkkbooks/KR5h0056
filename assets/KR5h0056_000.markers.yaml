@@ -1,0 +1,119 @@
+canonical_identifier: bkk:krp/KR5h0056/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5h0056_HFL_000-001a01}
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書子部十四}
+  - {type: page-break, offset: 0, content: '', id: KR5h0056_WYG_000-1a, image: WYG1055/WYG1055-0323a.png}
+  - {type: page-break, offset: 0, content: '', id: KR5h0056_SJB_000-360530c, image: sjb/36/360530c.png}
+  - {type: variant, offset: 3, length: 1, content: 目, WYG: 道家𩔖提要臣等謹案老子翼三卷明焦竑撰竑有易筌已著}
+  - {type: variant, offset: 5, length: 1, content: 轂, WYG: 是編輯韓非以下解老子者六十四家而附以竑之筆乗共成六十五家各采其精語裒為一書其首尾完具自成章段者仿李鼎祚周易集解之例各標舉姓名列本章之後其音義訓詁但取一字一句者則仿裴駰史記集解之例聯貫其文綴本章末句之下上下篇各為}
+  - {type: page-break, offset: 5, content: '', id: KR5h0056_WYG_000-1b, image: WYG1055/WYG1055-0323b.png}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5h0056_HFL_000-001a02}
+  - {type: indent, offset: 0, content: 　, id: KR5h0056_krp_000-bkkind1}
+  - {type: variant, offset: 1, length: 12, content: 之一上篇卷之二下篇卷之三, WYG: ''}
+  - {type: 'kr:newline', offset: 3, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl2}
+  - {type: line-break, offset: 3, content: '', id: KR5h0056_HFL_000-001a03}
+  - {type: indent, offset: 3, content: 　　, id: KR5h0056_krp_000-bkkind2}
+  - {type: 'kr:newline', offset: 5, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl3}
+  - {type: line-break, offset: 5, content: '', id: KR5h0056_HFL_000-001a04}
+  - {type: indent, offset: 5, content: 　, id: KR5h0056_krp_000-bkkind3}
+  - {type: 'kr:newline', offset: 8, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl4}
+  - {type: line-break, offset: 8, content: '', id: KR5h0056_HFL_000-001a05}
+  - {type: indent, offset: 8, content: 　　, id: KR5h0056_krp_000-bkkind4}
+  - {type: 'kr:newline', offset: 10, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl5}
+  - {type: line-break, offset: 10, content: '', id: KR5h0056_HFL_000-001a06}
+  - {type: 'kr:newline', offset: 13, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl6}
+  - {type: line-break, offset: 13, content: '', id: KR5h0056_HFL_000-001a07}
+  - {type: indent, offset: 13, content: 　　, id: KR5h0056_krp_000-bkkind5}
+  - {type: 'kr:newline', offset: 15, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl7}
+  - {type: line-break, offset: 15, content: '', id: KR5h0056_HFL_000-001a08}
+  - {type: indent, offset: 15, content: 　　, id: KR5h0056_krp_000-bkkind6}
+  - {type: variant, offset: 15, length: 0, content: '', WYG: 及}
+  - {type: 'kr:newline', offset: 17, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl8}
+  - {type: line-break, offset: 17, content: '', id: KR5h0056_HFL_000-001a09}
+  - {type: indent, offset: 17, content: 　　　, id: KR5h0056_krp_000-bkkind7}
+  - {type: variant, offset: 17, length: 0, content: '', WYG: 共為一卷不立道經徳經之名亦不妄署篇名體例特為近古所采諸説大抵取諸道藏多非世所常行之本竑之去取亦特精審大㫖主于闡發元言務明清浄自然之理如葛長庚等之㕘以道家爐火禪學機鋒者雖列其名率屏不録于諸家註中為博贍而有理致葢竑于二氏之學本深于儒學故其説儒理者多涉悠謬説二氏之理者轉具有别裁云乾隆四十五年二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀老子翼原序老子明道之書也而唐王眞也者至以為譚兵而作豈其佳兵善戰之言亦有以啟之歟余曰老子非言兵也明致柔也天下之喜強者莫逾於兵而猶然以柔詘也卽無之而不柔可知巳柔也者剛之對也道無不在而獨主柔而賓剛何居余曰老子非言柔也明無為也柔非卽為道而去無為也近剛非外於道而去無為也逺故自柔以求之而無為可㡬也夫無之不能不有猶之柔之不能無剛也而建之以常無有夫建之以常無有則世之仁義聖智不至絶而棄之不止也是亦歸於舉一而廢百者耳余曰老子非言無之無也明有之無也無之無者是舍有以適無者也其名為輐斷有之無者是即有以證無者也其學為歸根茍物之各歸其根也卽芸芸並作而卒不得命之曰有此致虛守静之極也葢學者知器而不知道故易明器即道見色而不見空故釋明色即空得有而不得無故老明有即無審知有之即無也則為無為事無事而為與事舉不得以礙之矣斯又何絶棄之有故曰老子明道之書也余㓜好剛使氣讀老子如以耳食無異也年二十有三聞師友之訓稍志於學而苦其難入有譚者以所謂昭昭靈靈引之忻然如有當也反之於心如馬之有銜勒而户之有樞也參之近儒如契之有合也自以為道在此矣顧二十年以來觸塗成窒有窒必有疑考古多乖有乖必有反葢未嘗暫去於懐也頃歲困衡既乆浸以成疴偃息之餘俄有獨寤乃喟然嘆曰鄉也未嘗不非意識而或思滅識以寂未嘗不貴無心而不知本心之自無知慕清浄而不知無垢之非浄知有眞我而不知無物之非我皆譚者有以誤之也自此馳求意見寂無影響而余亦幸為無事人矣時友人翟徳孚好言老子間舉以相訊余以近寤疏之徳孚未嘗不擊節也屬余章為之解因取家藏老子故暨道藏所收徧讀之得六十有四家博哉言乎其間叛道離經之語雖往往有之而合者為不少矣吟諷迥環繼以太息嗟乎老氏五千言或以為盡容成子書列子又言谷神不苑為黄帝書故曰述而不作信而好古竊比於我老彭古之聖人可以明道不必皆已出也況余之於斯秋毫之端萬分未處一者乎於是輟不復作苐取前人所疏手自排纘為一編而一二膚見附焉德孚亦方解隂符未竟也俟其成當竝出以示學者今姑叙之藏於家峕萬厯丁亥冬仲焦竑弱侯序欽定四庫全書老子翼采摭書目洪武御注開元御注政和御注開元疏開元廣疏義韓非子有解老喻老二篇河上公注嚴君平指歸鍾㑹注王輔嗣注鳩摩羅什注肇法師注傅奕校定古本唐太史令有老子注今惟古本一篇存杜光庭廣聖義後蜀廣徳先生聖義五十卷天復辛酉著廣陸希聲注唐相李約注唐兵部郎勉子顧歡注李榮注司馬氏論四卷温公王介甫注}
+  - {type: page-break, offset: 17, content: '', id: KR5h0056_WYG_000-2a, image: WYG1055/WYG1055-0324a.png}
+  - {type: page-break, offset: 17, content: '', id: KR5h0056_WYG_000-3a, image: WYG1055/WYG1055-0324c.png}
+  - {type: page-break, offset: 17, content: '', id: KR5h0056_WYG_000-3b, image: WYG1055/WYG1055-0324d.png}
+  - {type: page-break, offset: 17, content: '', id: KR5h0056_WYG_000-4a, image: WYG1055/WYG1055-0325a.png}
+  - {type: page-break, offset: 17, content: '', id: KR5h0056_WYG_000-4b, image: WYG1055/WYG1055-0325b.png}
+  - {type: page-break, offset: 17, content: '', id: KR5h0056_WYG_000-5a, image: WYG1055/WYG1055-0325c.png}
+  - {type: page-break, offset: 17, content: '', id: KR5h0056_WYG_000-6a, image: WYG1055/WYG1055-0326a.png}
+  - {type: page-break, offset: 17, content: '', id: KR5h0056_WYG_000-6b, image: WYG1055/WYG1055-0326b.png}
+  - {type: page-break, offset: 17, content: '', id: KR5h0056_WYG_000-7a, image: WYG1055/WYG1055-0326c.png}
+  - {type: variant, offset: 20, length: 1, content: 註, WYG: 注四卷元符庚辰造陸農師注宋中大夫造知亳州時張文濳義吕吉甫注四卷元豐間進王補之義无咎王元澤注程俱老子論見北山集陳象古注二卷丞議郎建中靖國間造陳碧虛藏室纂微熈寧間造薛致𤣥纂微開題科文疏李息齋注嘉謀著道徳經先天道徳經二解藏本强思齋𤣥徳纂疏二十卷乾徳間造章安解義十卷政和間進江澂疏義十四卷政和間進鶴林彭耜集注十八卷董思靖集解饒陽李霖取善集趙志堅疏義邵若愚直解本來子紹興間造程泰之注大昌吏部尚書龍圖閣學士乾道間造易老通言趙秉文集解宋學士時雍全解龍興觀碑次解無名氏葉夢得解劉仲平注劉巨濟注涇宋職方郎中劉辰翁㸃校道徳經黄茂材注知荆門軍事淳熈間造林鬳齋口義希翰林學士景定間造白紫清老子解玉蟾劉師立節解真静子紹熈間造劉惟永集義大徳間造丁易東解石潭大徳間樞宻院編修呉幼清注澂林志堅注旴江危大有集義鄧錡道徳三解大徳間造張嗣成訓頌至治間造李道純㑹元至元間造杜道堅原㫖當塗人大徳間造原旨發揮薛君采集解蕙亳州人考功郎中嘉靖間造王純甫老子億道武城人祭酒禮部侍郎嘉靖間造周易億四卷老子億四卷李宏甫解老載䞇温陵人姚安太守所著有李氏春秋老子解荘子内篇解心經提綱}
+  - {type: page-break, offset: 20, content: '', id: KR5h0056_WYG_000-7b, image: WYG1055/WYG1055-0326d.png}
+  - {type: page-break, offset: 20, content: '', id: KR5h0056_WYG_000-8a, image: WYG1055/WYG1055-0327a.png}
+  - {type: page-break, offset: 20, content: '', id: KR5h0056_WYG_000-8b, image: WYG1055/WYG1055-0327b.png}
+  - {type: page-break, offset: 20, content: '', id: KR5h0056_WYG_000-9a, image: WYG1055/WYG1055-0327c.png}
+  - {type: page-break, offset: 20, content: '', id: KR5h0056_WYG_000-9b, image: WYG1055/WYG1055-0327d.png}
+  - {type: page-break, offset: 20, content: '', id: KR5h0056_WYG_000-10a, image: WYG1055/WYG1055-0328a.png}
+  - {type: substitution, offset: 20, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0597}}
+  - {type: 'kr:newline', offset: 21, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl9}
+  - {type: line-break, offset: 21, content: '', id: KR5h0056_HFL_000-001a10}
+  - {type: indent, offset: 21, content: 　　　, id: KR5h0056_krp_000-bkkind8}
+  - {type: 'kr:newline', offset: 25, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl10}
+  - {type: page-break, offset: 25, content: '', id: KR5h0056_HFL_000-001b, image: hfl/1115/1115-005.png}
+  - {type: 'kr:newline', offset: 25, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl11}
+  - {type: 'kr:newline', offset: 25, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl12}
+  - {type: 'kr:newline', offset: 25, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl13}
+  - {type: 'kr:newline', offset: 25, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl14}
+  - {type: 'kr:newline', offset: 25, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl15}
+  - {type: 'kr:newline', offset: 25, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl16}
+  - {type: 'kr:newline', offset: 25, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl17}
+  - {type: 'kr:newline', offset: 25, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl18}
+  - {type: 'kr:newline', offset: 25, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl19}
+  - {type: 'kr:newline', offset: 25, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl20}
+  - {type: 'kr:newline', offset: 25, content: '
+
+      ', id: KR5h0056_krp_000-bkkkrnewl21}
+  - {type: variant, offset: 25, length: 0, content: '', WYG: 余舊讀書所劄記間及老子者今悉附入}
+  back: []
+hash: sha256:c77ff3543daa48b2a3d07722ccce6242d5acc0be2a8ef28aa1f31840ae934d6d

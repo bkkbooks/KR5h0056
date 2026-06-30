@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5h0056/krp/v1/juan/0
+seq: 0
+front:
+  text: 老子翼目録轂一
+  hash: sha256:6746cc687015048ff1110d9c645293cfae20a43eaad310bb9df30e9edb09bd73
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5h0056_HFL_000-001a, image: hfl/1115/1115-004.png}
+body:
+  text: 卷之一上篇卷之二下篇卷之三附録考異蘇子由注焦氏筆乘
+  hash: sha256:74d67487999b265006962c233987db7790944c3bffcced6cb97a06f0338a79ab
+metadata:
+  title: 老子翼
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 03:05:39.682637'
+  source:
+    repository: kanripo
+    path: KR5h0056/KR5h0056_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:1335ca7eca1c680fac4b0237c0426e23f20a2d8ecff2e97de8ec622ef74ef817
