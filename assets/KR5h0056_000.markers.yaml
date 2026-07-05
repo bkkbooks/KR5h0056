@@ -71,7 +71,6 @@ markers:
   - {type: page-break, offset: 20, content: '', id: KR5h0056_WYG_000-9a, image: WYG1055/WYG1055-0327c.png}
   - {type: page-break, offset: 20, content: '', id: KR5h0056_WYG_000-9b, image: WYG1055/WYG1055-0327d.png}
   - {type: page-break, offset: 20, content: '', id: KR5h0056_WYG_000-10a, image: WYG1055/WYG1055-0328a.png}
-  - {type: substitution, offset: 20, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0597}}
   - {type: 'kr:newline', offset: 21, content: '
 
       ', id: KR5h0056_krp_000-bkkkrnewl9}
@@ -116,4 +115,4 @@ markers:
       ', id: KR5h0056_krp_000-bkkkrnewl21}
   - {type: variant, offset: 25, length: 0, content: '', WYG: 余舊讀書所劄記間及老子者今悉附入}
   back: []
-hash: sha256:c77ff3543daa48b2a3d07722ccce6242d5acc0be2a8ef28aa1f31840ae934d6d
+hash: sha256:185b50a5b892426c424f2ad8cb5a3ad5d382f018718efc7908bdd47c30da54c7
