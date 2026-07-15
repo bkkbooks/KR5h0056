@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR5h0056_HFL_000-001a, image: hfl/1115/1115-004.png}
 body:
-  text: 卷之一上篇卷之二下篇卷之三附録考異蘇子由註焦氏筆乘
-  hash: sha256:445c2ff3771874a3014671a1b5a32764237c037cea825f2871b5af1bebe2211c
+  text: 卷之一上篇卷之二下篇卷之三附録考異蘇子由注焦氏筆乘
+  hash: sha256:74d67487999b265006962c233987db7790944c3bffcced6cb97a06f0338a79ab
 metadata:
   title: 老子翼
   edition:
@@ -23,4 +23,4 @@ metadata:
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
     HFL: http://img.kanripo.org/daoist/ztdz/
     CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
-hash: sha256:94a108bf383f97a41d15fce490fa29b5413c255fe78d7bebdb35ef5c853661eb
+hash: sha256:1335ca7eca1c680fac4b0237c0426e23f20a2d8ecff2e97de8ec622ef74ef817
